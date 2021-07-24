@@ -4,7 +4,7 @@
 > Unity와 C++을 활용한 어드벤처 게임 개발
 
 ## How to Use?
-> Download Apk
+> Download Apk and Use in Android device 
 
 ## Result?
 > https://drive.google.com/file/d/1gL7SgGSIhE3ByPR_Iy0V5Vtg2vN69RBg/view?usp=sharing
